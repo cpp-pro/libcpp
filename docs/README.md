@@ -3,9 +3,9 @@ I will constantly add new contents, so stay tuned!
 
 # Contents
 
-1. [Basics](/basics.md)
+1. [Basics](./basics.md)
 2. Keywords
-   - [`auto`](/keywords/auto.md)
-   - [`inline`](/keywords/inline.md)
+   - [`auto`](./keywords/auto.md)
+   - [`inline`](./keywords/inline.md)
   
     
